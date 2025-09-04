@@ -1,0 +1,9 @@
+{
+    "name": "InfiniteTorches",
+    "version_number": "0.0.2",
+    "website_url": "https://github.com/FroggerHH/InfiniteTorches",
+    "description": "Your torches, braziers and campfires will never go out again.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1901"
+    ]
+}

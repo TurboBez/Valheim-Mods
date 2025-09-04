@@ -1,0 +1,347 @@
+- manifestVersion: 1
+  name: denikson-BepInExPack_Valheim
+  authorName: denikson
+  websiteUrl: https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/
+  displayName: BepInExPack_Valheim
+  description: BepInEx pack for Valheim. Preconfigured with the correct entry
+    point for mods and preferred defaults for the community.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026674242
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 2333
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\cache\denikson-BepInExPack_Valheim\5.4.2333\icon.png
+- manifestVersion: 1
+  name: RustyMods-UsefulPaths
+  authorName: RustyMods
+  websiteUrl: https://thunderstore.io/c/valheim/p/RustyMods/UsefulPaths/
+  displayName: UsefulPaths
+  description: Modify player speed, jump, carry weight, stamina based on ground terrain
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026674367
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2105
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\cache\RustyMods-UsefulPaths\1.0.4\icon.png
+- manifestVersion: 1
+  name: Buttergeland-CraftFromContainers
+  authorName: Buttergeland
+  websiteUrl: https://thunderstore.io/c/valheim/p/Buttergeland/CraftFromContainers/
+  displayName: CraftFromContainers
+  description: Allows you to make use of resources in nearby containers when
+    crafting, building, using smelters and kilns, refueling fires, cooking food,
+    etc. By aedenthorn.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026660150
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 5
+    patch: 2
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Server\BepInEx\plugins\Buttergeland-CraftFromContainers\icon.png
+- manifestVersion: 1
+  name: JoelOliMclean-NoRainDamage
+  authorName: JoelOliMclean
+  websiteUrl: https://thunderstore.io/c/valheim/p/JoelOliMclean/NoRainDamage/
+  displayName: NoRainDamage
+  description: Rain will no longer damage structures that have no roof. Now
+    configurable for what gets damaged!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026674346
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 4
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Server\BepInEx\plugins\JoelOliMclean-NoRainDamage\icon.png
+- manifestVersion: 1
+  name: JereKuusela-Item_Stand_All_Items
+  authorName: JereKuusela
+  websiteUrl: https://thunderstore.io/c/valheim/p/JereKuusela/Item_Stand_All_Items/
+  displayName: Item_Stand_All_Items
+  description: Allows putting any item on item stands and customize their
+    transformations. The config can be synced by installing on the server.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026674319
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 23
+    patch: 0
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Server\BepInEx\plugins\JereKuusela-Item_Stand_All_Items\icon.png
+- manifestVersion: 1
+  name: Azumatt-Official_BepInEx_ConfigurationManager
+  authorName: Azumatt
+  websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/Official_BepInEx_ConfigurationManager/
+  displayName: Official_BepInEx_ConfigurationManager
+  description: Mod to assist with configuration of BepInEx mods
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026674295
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 18
+    minor: 4
+    patch: 1
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Server\BepInEx\plugins\Azumatt-Official_BepInEx_ConfigurationManager\icon.png
+- manifestVersion: 1
+  name: aedenthorn_mods-InstantMonsterLootDrop
+  authorName: aedenthorn_mods
+  websiteUrl: https://thunderstore.io/c/valheim/p/aedenthorn_mods/InstantMonsterLootDrop/
+  displayName: InstantMonsterLootDrop
+  description: Causes monsters to drop their loot and poof immediately.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026660201
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 5
+    patch: 1
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Server\BepInEx\plugins\aedenthorn_mods-InstantMonsterLootDrop\icon.png
+- manifestVersion: 1
+  name: MaxiMods-MultiCraft
+  authorName: MaxiMods
+  websiteUrl: https://thunderstore.io/c/valheim/p/MaxiMods/MultiCraft/
+  displayName: MultiCraft
+  description: Easy interface to craft multiple items of the same recipe.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026674218
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 2
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Server\BepInEx\plugins\MaxiMods-MultiCraft\icon.png
+- manifestVersion: 1
+  name: k942-MassFarming
+  authorName: k942
+  websiteUrl: https://thunderstore.io/c/valheim/p/k942/MassFarming/
+  displayName: MassFarming
+  description: Xeio's mod to assist with large scale farming in Valheim
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026674264
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 11
+    patch: 0
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Server\BepInEx\plugins\k942-MassFarming\icon.png
+- manifestVersion: 1
+  name: Frogger-InfiniteTorches
+  authorName: Frogger
+  websiteUrl: https://thunderstore.io/c/valheim/p/Frogger/InfiniteTorches/
+  displayName: InfiniteTorches
+  description: Your torches, braziers and campfires will never go out again.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026660229
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Server\BepInEx\plugins\Frogger-InfiniteTorches\icon.png
+- manifestVersion: 1
+  name: Tekla-AutoRepair
+  authorName: Tekla
+  websiteUrl: https://thunderstore.io/c/valheim/p/Tekla/AutoRepair/
+  displayName: AutoRepair
+  description: Interacting with a workbench will repair all items it can from your
+    inventory.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026660240
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 1602
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Server\BepInEx\plugins\Tekla-AutoRepair\icon.png
+- manifestVersion: 1
+  name: nDeavor-PlantAnywhere
+  authorName: nDeavor
+  websiteUrl: https://thunderstore.io/c/valheim/p/nDeavor/PlantAnywhere/
+  displayName: PlantAnywhere
+  description: This mod allows you to ignore biomes and plant things anywhere.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026660250
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.602
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Server\BepInEx\plugins\nDeavor-PlantAnywhere\icon.png
+- manifestVersion: 1
+  name: castix-FloatingItems
+  authorName: castix
+  websiteUrl: https://thunderstore.io/c/valheim/p/castix/FloatingItems/
+  displayName: FloatingItems
+  description: This simple mod makes all items float on the water surface.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026660261
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Server\BepInEx\plugins\castix-FloatingItems\icon.png
+- manifestVersion: 1
+  name: ValheimPlus1-ValheimPlus
+  authorName: ValheimPlus1
+  websiteUrl: https://thunderstore.io/c/valheim/p/ValheimPlus1/ValheimPlus/
+  displayName: ValheimPlus
+  description: This is a just a version of Valheim with a few small QOL mods
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026660272
+  loaders: []
+  dependencies:
+    - castix-FloatingItems-1.0.0
+    - nDeavor-PlantAnywhere-0.0.3
+    - Tekla-AutoRepair-5.4.1602
+    - Frogger-InfiniteTorches-0.0.2
+    - k942-MassFarming-1.9.0
+    - MaxiMods-MultiCraft-1.3.0
+    - denikson-BepInExPack_Valheim-5.4.2202
+    - aedenthorn_mods-InstantMonsterLootDrop-0.5.1
+    - Azumatt-Official_BepInEx_ConfigurationManager-18.3.0
+    - JereKuusela-Item_Stand_All_Items-1.21.0
+    - JoelOliMclean-NoRainDamage-1.2.2
+    - Buttergeland-CraftFromContainers-3.5.2
+    - RustyMods-UsefulPaths-1.0.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Server\BepInEx\plugins\ValheimPlus1-ValheimPlus\icon.png
+- manifestVersion: 1
+  name: TastyChickenLegs-LongerDays
+  authorName: TastyChickenLegs
+  websiteUrl: https://thunderstore.io/c/valheim/p/TastyChickenLegs/LongerDays/
+  displayName: LongerDays
+  description: Updated for Ashlands. Change speed of the day.  SpeedRate is by
+    default 50% or twice as long days.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1757026668253
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2101
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:\Users\djord\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Server\BepInEx\plugins\TastyChickenLegs-LongerDays\icon.png

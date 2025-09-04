@@ -1,0 +1,9 @@
+{
+  "name": "LongerDays",
+  "description": "Updated for Ashlands. Change speed of the day.  SpeedRate is by default 50% or twice as long days.",
+  "version_number": "1.1.1",
+  "website_url": "https://discord.gg/PQMXbUS6FH",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2101"
+  ]
+}

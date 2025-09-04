@@ -1,0 +1,21 @@
+{
+    "name": "ValheimPlus",
+    "version_number": "1.2.1",
+    "website_url": "",
+    "description": "This is a just a version of Valheim with a few small QOL mods",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202",
+        "Tekla-AutoRepair-5.4.1602",
+        "MaxiMods-MultiCraft-1.3.0",
+        "aedenthorn_mods-InstantMonsterLootDrop-0.5.1",
+        "Frogger-InfiniteTorches-0.0.2",
+        "castix-FloatingItems-1.0.0",
+        "JoelOliMclean-NoRainDamage-1.2.2",
+        "Azumatt-Official_BepInEx_ConfigurationManager-18.3.0",
+        "JereKuusela-Item_Stand_All_Items-1.21.0",
+        "Buttergeland-CraftFromContainers-3.5.2",
+        "k942-MassFarming-1.9.0",
+        "RustyMods-UsefulPaths-1.0.2",
+        "nDeavor-PlantAnywhere-0.0.3"
+    ]
+}
